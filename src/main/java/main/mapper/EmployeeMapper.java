@@ -22,6 +22,7 @@ public interface EmployeeMapper  {
 
 
     public void say();
+    public void say(String name);
 }
 
 
