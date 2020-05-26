@@ -19,6 +19,9 @@ public interface EmployeeMapper  {
     public  Integer insert(Employee employee);
 
     public Integer delete(Integer id);
+
+
+    public void say();
 }
 
 
