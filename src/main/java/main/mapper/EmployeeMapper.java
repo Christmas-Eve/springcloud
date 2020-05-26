@@ -21,8 +21,7 @@ public interface EmployeeMapper  {
     public Integer delete(Integer id);
 
 
-    public void say();
-    public void say(String name);
+  
 }
 
 
